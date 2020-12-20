@@ -1,6 +1,6 @@
 # Data Science Wage Prediction
 
-## Reoruces
+## Resources
 https://github.com/arapfaik/scraping-glassdoor-selenium
 
 
