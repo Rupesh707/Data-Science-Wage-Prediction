@@ -1,4 +1,4 @@
-# DS_Salary_Project
+# Data Science Wage Prediction
 
 ## Reoruces
 https://github.com/arapfaik/scraping-glassdoor-selenium
