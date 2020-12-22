@@ -1,4 +1,4 @@
-# Data Science Wage Prediction
+# Data Science Wage Prediction 2020
 
 ## Resources
 https://github.com/arapfaik/scraping-glassdoor-selenium
