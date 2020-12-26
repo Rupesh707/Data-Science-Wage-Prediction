@@ -13,7 +13,7 @@
 
 
 
-## Resources & Codes used
+## Resources
 ### Python Version 3.7
 
 https://github.com/arapfaik/scraping-glassdoor-selenium
