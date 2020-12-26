@@ -18,12 +18,3 @@ https://github.com/arapfaik/scraping-glassdoor-selenium
 https://github.com/PlayingNumbers
 
 https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
-
-
-
-Technologies Used
-This project primarily uses Selenium 3.141.0, Numpy 1.18.3, Pandas 1.0.4, Joblib 0.15.1, Scikit_Learn 0.23.1 and Streamlit 0.61.0.
-
-To replicate the libraries used in this project, you can run the following command:
-
-pip install -r requirements.txt
