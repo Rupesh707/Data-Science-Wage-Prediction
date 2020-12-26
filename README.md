@@ -11,7 +11,7 @@
 **Web Framework:** ```pip install -r requirements.txt``` 
 **Front End Production Flask:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
 
-## Resources
+## Resources & References
 
 https://github.com/arapfaik/scraping-glassdoor-selenium
 
