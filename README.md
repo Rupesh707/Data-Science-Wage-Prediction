@@ -1,6 +1,6 @@
 # Data Science Wage Prediction 2020 (During Crisis)
 
-* Developed a tool that estimates Data Scientists wages (MAE ~ $ 11K) to serve as a wage comparator when negotiating the pay.
+* Developed an API that estimates Data Scientists wages (MAE ~ $ 11K) to serve as a wage comparator when negotiating the pay.
 * Used Selenium and Chromdriver to scraped over 1000 job descriptions on from Glassdoor.
 * Quantified technical requirements from skills requirements and emphasize placed on Python, Excel, AES & Spark. 
 * Tested the mode on Lasso, Random forest, Linear regression using GridsearchCV to find the best fit  
