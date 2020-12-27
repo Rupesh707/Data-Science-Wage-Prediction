@@ -20,3 +20,9 @@
 https://github.com/arapfaik/scraping-glassdoor-selenium
 
 https://github.com/PlayingNumbers
+
+
+
+## EDA Result
+
+![Plot1](Images/Avg_salary_by_ state.png)
