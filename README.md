@@ -28,3 +28,7 @@ https://github.com/PlayingNumbers
 ![alt text](https://github.com/Rupesh707/Data-Science-Wage-Prediction2020/blob/master/Images/Avg_salary_by_%20state.png "Average Salary by top 10 States")
 ![alt text](https://github.com/Rupesh707/Data-Science-Wage-Prediction2020/blob/master/Images/Correlations_Viz.png "Correlations")
 ![alt text](https://github.com/Rupesh707/Data-Science-Wage-Prediction2020/blob/master/Images/Jobs_by_Location.png "Jobs by Location")
+
+## To further improve 
+
+Contributions are open to everyone.
