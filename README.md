@@ -39,11 +39,6 @@ Comparisons were made with a different model to find the most suitable Mean Abso
 *	**Lasso Regression**: MAE = 21.09
 
 
-Linear Regression Model (MAE ~25K), Lasso Regression Model (MAE ~22K) and a Random Forest model (MAE ~23K), and GridSearchCV helped identify the optimal hyperparameters for tuning each of these models, attaining a Lasso Regression Model with (MAE ~20K).
-
-
-
-
 ## To further improve 
 
 Contributions are open to everyone.
