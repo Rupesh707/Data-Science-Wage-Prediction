@@ -42,9 +42,6 @@ Comparisons were made with a different model to find the most suitable Mean Abso
 
 Build and hosted an environment on the local server following TDS tutorial from the resources. The API takes values from job listings and returns salary estimation. 
 
-In this step, I built a flask API endpoint that was hosted on a local webserver by following along with the TDS tutorial in the reference section above. The API endpoint takes in a request with a list of values from a job listing and returns an estimated salary
-
-
 ## To further improve 
 
 Contributions are open to everyone.
