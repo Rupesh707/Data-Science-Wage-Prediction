@@ -30,7 +30,7 @@ https://github.com/PlayingNumbers
 
 ## Models Used
 
-Comparisons were made with a different model to find the most suitable Mean Absolute Error (MAE). From the below models, Random Forest model outclassed the rest.
+Comparisons were made with different models to find the most suitable Mean Absolute Error (MAE). From the below models, Random Forest model outclassed the rest.
 
 *	**Random Forest** : MAE = 14.90
 
