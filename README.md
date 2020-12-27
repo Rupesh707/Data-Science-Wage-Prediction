@@ -7,7 +7,7 @@
 * Developed front end API using flask 
 
 ## Packages & Tool Kit
-**Packages:** Pandas, Numpy, Sklearn, Matplotlib, Seaborn, Flask,
+**Packages:** Pandas, Numpy, Sklearn, Matplotlib, Seaborn, Flask.
 **Web Framework:** ```pip install -r requirements.txt``` 
 
 
