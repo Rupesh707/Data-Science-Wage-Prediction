@@ -14,7 +14,9 @@
 ## Resources & References
 
 **Front End Production Flask:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
+
 **Github
+
 https://github.com/arapfaik/scraping-glassdoor-selenium
 
 https://github.com/PlayingNumbers
