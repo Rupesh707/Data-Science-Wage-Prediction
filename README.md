@@ -40,7 +40,7 @@ Comparisons were made with a different model to find the most suitable Mean Abso
 
 ## Deploying API
 
-Build and hosted an environment on the local server following TDS tutorial from the resources. The API takes values from job listings and returns salary estimations. 
+Built and hosted an environment on the local server following TDS tutorial from the resources. The API takes values from job listings and returns salary estimations. 
 
 ## To further improve 
 
