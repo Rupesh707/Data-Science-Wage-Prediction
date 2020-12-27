@@ -32,11 +32,12 @@ https://github.com/PlayingNumbers
 
 Comparisons were made with a different model to find the most suitable Mean Absolute Error (MAE). From the below models, Random Forest model outclassed the rest.
 
+*	**Random Forest** : MAE = 14.90
+
 *	**Linear Regression**: MAE = 20.76
 
 *	**Lasso Regression**: MAE = 21.09
 
-*	**Random Forest** : MAE = 14.90
 
 Linear Regression Model (MAE ~25K), Lasso Regression Model (MAE ~22K) and a Random Forest model (MAE ~23K), and GridSearchCV helped identify the optimal hyperparameters for tuning each of these models, attaining a Lasso Regression Model with (MAE ~20K).
 
